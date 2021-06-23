@@ -11,6 +11,7 @@ use pocketmine\scheduler\ClosureTask;
 use pocketmine\tile\Tile;
 use xSuper\VanillaBlocks\blocks\AncientDebrisBlock;
 use xSuper\VanillaBlocks\blocks\BarrelBlock;
+use xSuper\VanillaBlocks\blocks\SpruceTrap;
 use xSuper\VanillaBlocks\blocks\BarrierBlock;
 use xSuper\VanillaBlocks\blocks\BasaltBlock;
 use xSuper\VanillaBlocks\blocks\BlackstoneBlock;
@@ -52,6 +53,7 @@ class VanillaBlocks extends PluginBase
         self::registerBlock(new AncientDebrisBlock());
         self::registerBlock(new BarrelBlock());
         self::registerBlock(new BarrierBlock());
+        self:;registerBlock(new SpruceTrap());
         self::registerBlock(new BasaltBlock());
         self::registerBlock(new StrippedLogBlock(VanillaBlockIds::STRIPPED_OAK, "Stripped Oak Log"));
         self::registerBlock(new StrippedLogBlock(VanillaBlockIds::STRIPPED_SPRUCE, "Stripped Spruce Log"));
