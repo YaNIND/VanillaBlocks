@@ -18,6 +18,7 @@ interface VanillaBlockIds
     const STRIPPED_CRIMSON = 495;
     const STRIPPED_WARPED = 496;
     const NETHER_GOLD_ORE = 543;
+    const SPRUCE_TRAP = 404;
     const LANTERN = 463;
     const CAMPFIRE = 464;
     const BLACKSTONE = 528;
