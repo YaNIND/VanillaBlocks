@@ -21,5 +21,6 @@ required.
 - [ ] Bee Nests 
 - [ ] Chains
 - [X] Soul Torch
+- [X] Spruce Trapdoor
 - [X] Soul Campfire
 - [X] Soul Lantern
